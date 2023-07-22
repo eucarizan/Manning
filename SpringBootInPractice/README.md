@@ -10,3 +10,4 @@
 ## Chapter 02: Common Spring Boot tasks
 ## Chapter 03: Database access with Spring Data
 ### Configuring a database in a Spring Boot application
+- Technique 3: [initialize relational database with schema](./ch03/initialize-relational-database-with-schema/README.md)
