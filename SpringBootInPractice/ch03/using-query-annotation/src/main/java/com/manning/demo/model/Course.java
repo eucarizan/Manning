@@ -4,18 +4,7 @@ import javax.persistence.*;
 import java.util.Objects;
 
 @Entity
-@Table(name = "COURSES")
-@NamedQuery(name = "Course.findAllByCategoryAndRating",
-    query = "select c from Course c where c.category=?1 and c.rating=?2")
-/*
- * Use of @NamedQueries annotation to include multiple @NamedQuery annotation
- * 
- * @NamedQueries({
- *     @NamedQuery(name = "Course.findAllByRating", query = "select c from Course c where c.rating=?1"),
- *     @NamedQuery(name = "Course.findAllByCategoryAndRating", query = "select c from Course c 
- *         where c.category=?1 and c.rating=?2"),
- * })
- */
+@Table(name = "COURSE")
 public class Course {
 
     @Id
