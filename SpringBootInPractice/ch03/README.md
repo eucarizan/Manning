@@ -6,6 +6,7 @@
   - [3.4 Retrieve data from a database using Spring Data](#34-retrieve-data-from-a-database-using-spring-data)
   - [3.5 Specifying query using @Query](#35-specifying-query-using-query)
   - [3.6 Using Criteria API with Spring Data JPA](#36-using-criteria-api-with-spring-data-jpa)
+  - [3.7 Using QueryDSL with Spring Data JPA](#37-using-querydsl-with-spring-data-jpa)
 
 ## 3.2 Configuring a database in a Spring Boot application
 - Technique 3.2.3: [initialize relational database with schema](./initialize-relational-database-with-schema/README.md)
@@ -24,3 +25,6 @@
 
 ## 3.6 Using Criteria API with Spring Data JPA
 - Technique 3.6.1: [using criteria api](./using-criteria-api/README.md)
+
+## 3.7 Using QueryDSL with Spring Data JPA
+- Technique 3.7.1: [using query dsl](./using-query-dsl/README.md)
