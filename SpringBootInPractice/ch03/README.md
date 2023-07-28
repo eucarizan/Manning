@@ -8,6 +8,7 @@
   - [3.6 Using Criteria API with Spring Data JPA](#36-using-criteria-api-with-spring-data-jpa)
   - [3.7 Using QueryDSL with Spring Data JPA](#37-using-querydsl-with-spring-data-jpa)
   - [3.8 Managing domain object relationships](#38-managing-domain-object-relationships)
+  - [Todo](#todo)
 
 ## 3.2 Configuring a database in a Spring Boot application
 - Technique 3.2.3: [initialize relational database with schema](./initialize-relational-database-with-schema/README.md)
@@ -32,3 +33,6 @@
 
 ## 3.8 Managing domain object relationships
 - Technique 3.8.1: [managing many to many relationship](./managing-many-to-many-relationship/README.md)
+
+## Todo
+- [ ] implement configuring a relational database and NoSQL databases

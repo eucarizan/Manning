@@ -8,7 +8,6 @@ import javax.persistence.Table;
 @Entity(name = "AUTHORS_COURSES")
 @Table(name = "AUTHORS_COURSES")
 public class AuthorCourse {
-
     @Id
     @Column(name = "author_id")
     private long authorId;
