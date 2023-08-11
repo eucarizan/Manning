@@ -9,3 +9,4 @@
 
 ## 4.4 Spring Boot Actuator
 - Technique 4.4.1: [spring boot actuator](./spring-boot-actuator/README.md)
+<!-- - Technique 4.4.6: [custom spring boot actuator healthindicator](./custom-healthindicator/README.md) -->
